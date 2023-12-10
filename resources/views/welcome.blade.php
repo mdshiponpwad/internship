@@ -56,7 +56,7 @@
             <div class="card" style="width: 100%;">
                 <div class="card-body">
                   <div style="">
-                    <a href="https://github.com/jugol-kumar/internship-test" target="_blank">Click to see Repository</a>
+                    <a href="https://github.com/mdshiponpwad/internship" target="_blank">Click to see Repository</a>
                   </div>
                 </div>
             </div>          
